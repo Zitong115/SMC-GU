@@ -1,0 +1,5 @@
+RAW_DATA_PATH = '/home/zitong/graph_unlearning/IDEA/IDEA/datasets/raw_data/'
+PROCESSED_DATA_PATH = '/home/zitong/graph_unlearning/IDEA/IDEA/datasets/processed_data/'
+MODEL_PATH = '/home/zitong/graph_unlearning/scalable_GNN_unlearning/models'
+ANALYSIS_PATH = '/home/zitong/graph_unlearning/IDEA/IDEA/datasets/analysis_data/'
+CLUSTER_DATA_PATH = '/home/zitong/graph_unlearning/IDEA/IDEA/datasets/cluster_data/'
